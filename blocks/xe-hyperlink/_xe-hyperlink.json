@@ -10,8 +10,8 @@
             "template": {
               "name": "XE Hyperlink",
               "model": "xe-hyperlink",
-              "xlink_link": "#",
-              "xlink_linkText": "Hyperlink",
+              "link_cta": "#",
+              "link_ctaText": "Hyperlink",
               "classes_trailingIcon": false,
               "classes_type": "auto",
               "classes_target": ""
@@ -27,13 +27,13 @@
       "fields": [
         {
           "component": "aem-content",
-          "name": "xlink_link",
+          "name": "link_cta",
           "label": "URL",
           "valueType": "string"
         },
         {
           "component": "text",
-          "name": "xlink_linkText",
+          "name": "link_ctaText",
           "label": "Text",
           "valueType": "string"
         },

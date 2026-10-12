@@ -220,13 +220,13 @@
     "fields": [
       {
         "component": "aem-content",
-        "name": "xlink_link",
+        "name": "link_cta",
         "label": "URL",
         "valueType": "string"
       },
       {
         "component": "text",
-        "name": "xlink_linkText",
+        "name": "link_ctaText",
         "label": "Text",
         "valueType": "string"
       },

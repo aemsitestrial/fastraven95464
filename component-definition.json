@@ -167,8 +167,8 @@
                 "template": {
                   "name": "XE Hyperlink",
                   "model": "xe-hyperlink",
-                  "xlink_link": "#",
-                  "xlink_linkText": "Hyperlink",
+                  "link_cta": "#",
+                  "link_ctaText": "Hyperlink",
                   "classes_trailingIcon": false,
                   "classes_type": "auto",
                   "classes_target": ""
